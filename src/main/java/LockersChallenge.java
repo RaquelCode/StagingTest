@@ -14,8 +14,8 @@ public class LockersChallenge {
         }
 
         int numberOfDoors = 0;
-        for(boolean isOpen: doors) {
-            if (isOpen) {
+        for(boolean DoorIsOpen: drs) {
+            if (DoorIsOpen) {
             	numberOfDoors++;
             }
         }
